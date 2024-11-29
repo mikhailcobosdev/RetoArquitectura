@@ -27,7 +27,7 @@ El diagrama C4 proporciona una visión estructurada y jerárquica del diseño de
 2. **Abrir los archivos del diagrama:**
    Los diagramas están ubicados en el directorio `/diagramas`
    ```
-   /diagrams
+   /diagramas
    ├── C4.pdf
    ```
 
