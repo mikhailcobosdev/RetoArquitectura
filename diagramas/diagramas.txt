@@ -1,1 +1,2 @@
-
+/diagramas/
+  - C4.pdf
